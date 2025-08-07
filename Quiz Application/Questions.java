@@ -1,4 +1,4 @@
-package com.sjprogramming.quizapp;
+package com.ishita.quizapp;
 
 public class Questions {
     private String Question;
