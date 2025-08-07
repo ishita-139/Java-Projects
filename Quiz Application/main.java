@@ -1,4 +1,4 @@
-package com.sjprogramming.quizapp;
+package com.ishita.quizapp;
 
 import java.sql.SQLOutput;
 import java.util.HashMap;
